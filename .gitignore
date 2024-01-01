@@ -1,0 +1,10 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+__pycache__\
+
+# Django
+*.log
+*.pot
+*.pyc
