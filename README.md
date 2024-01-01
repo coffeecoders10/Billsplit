@@ -1,2 +1,2 @@
 # Billsplit
-bill splitting app between friends
+### Bill splitting app between friends
