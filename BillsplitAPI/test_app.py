@@ -8,7 +8,7 @@ def call_api():
 
         # Check if the request was successful (status code 200)
         if response.status_code == 200:
-            print("API response:", response.text)
+            print("API responses:", response.text)
         else:
             print(f"Error: {response.status_code} - {response.text}")
 
